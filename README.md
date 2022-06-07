@@ -1,2 +1,3 @@
 # alx-higher_level_programming
-higher level alx
+This is my python repository.
+bout to break the internet :o
